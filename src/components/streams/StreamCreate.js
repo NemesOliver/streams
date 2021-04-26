@@ -13,9 +13,6 @@ class StreamCreate extends Component {
   }
 
   renderInput = ({ input, label, meta }) => {
-    // const { input } = formProps;
-    // return <input onChange={input.onChange} value={input.value} />;
-
     const className = `field ${meta.touched && meta.error ? "error" : ""}`;
 
     return (
