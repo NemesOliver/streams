@@ -10,21 +10,26 @@
 
 
 ## General Information
-- Streaming application inspired by Twitch, implementing Google OAuth
+- Streaming application inspired by Twitch, implementing Google OAuth and class based components in React.
 
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- axios - version 0.21.1
+- flv.js - version 1.5.0
+- lodash - version 4.17.21
+- react - version 17.0.2
+- react-redux - version 7.2.4
+- react-router-dom - version 5.2.0
+- redux - version 4.1.0
+- redux-form - version 8.3.7
+- redux-thunk - version 2.3.0
 
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- Use OBS and Flv.js to stream
+- Multi user application
 
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+ _Complete_
