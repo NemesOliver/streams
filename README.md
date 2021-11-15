@@ -27,7 +27,6 @@
 
 
 ## Features
-List the ready features here:
 - Use OBS and Flv.js to stream
 - Multi user application
 
